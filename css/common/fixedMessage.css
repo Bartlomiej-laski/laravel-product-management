@@ -1,0 +1,11 @@
+.fixed-alert-container{
+    width:100%;
+    position: fixed;
+    top:10px;
+    z-index:9999;
+    display: flex;
+    justify-content: center;
+}
+.fixed-alert{
+    max-width:250px;
+}

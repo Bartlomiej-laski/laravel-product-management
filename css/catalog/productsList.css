@@ -1,0 +1,16 @@
+.main-image{
+    width:50px;
+}
+.old-price{
+    text-decoration: line-through;
+}
+.hidden-description{
+    background:white !important;
+}
+.type-btn{
+    margin: 5px;
+    padding: 3px 7px !important;
+}
+#products-list-body{
+    position:relative;
+}
